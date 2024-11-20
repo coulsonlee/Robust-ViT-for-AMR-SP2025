@@ -10,6 +10,7 @@ design leverages a feature extraction module and tailored feature and positional
 The overview of our proposed ViT-based adversarial robustness AMR design. As the first step, using the novel ViT-based models is expected to significantly boost the AMR classification accuracy (on clean samples) by exploiting the long-range dependencies in each signal. To minimize the impact of adversarial attacks on clean signals, our second step is to perform adversarial training using adversarial samples crafted to fool the trained ViT-based model. Instead of generating a wireless signal as a malicious perturbation from an ideal environment, our key innovation is to introduce a noise-adaptive perturbation crafting strategy considering real noises in clean samples. By doing so, the generated practical perturbations included in the adversarial training can further enhance the model robustness in AMR.
 
 ## Our self-collected dataset **(dataset can be downloaded at [This link](https://blogs.clemson.edu/rcd/))**
+[Dataset](https://app.globus.org/file-manager?origin_id=33fdf1d5-7b1c-4a21-8d3b-dd4b48d60dfa&origin_path=%2Fproject%2Flinkeg%2Fguolab%2F)
 The following table shows the details of our collected dataset.
 
 <img src="./images/Dataset Collection Parameters.png">
