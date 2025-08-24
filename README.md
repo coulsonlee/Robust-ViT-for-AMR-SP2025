@@ -22,5 +22,5 @@ The following table shows the details of our collected dataset.
 * Load the dataset with our sample code.
 
 # 
-We prepare a sample code for load and evaluate on our dataset. Please see the details in the `load_data.py` and we provide a sample script `eval_data.sh` to run the code.
+We prepare a sample code for load and evaluate on our dataset. Please see the details in the `load_data.py`. We also provide a sample script `eval_data.sh` to run the code.
 
